@@ -13,6 +13,7 @@ Se configuró una máquina virtual Debian, se actualizó el sistema operativo, s
 
 ## Archivos entregados
 
+- README.md
 - root.tar.gz
 - etc.tar.gz
 - opt.tar.gz
