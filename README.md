@@ -18,10 +18,31 @@ Se configuró una máquina virtual Debian, se actualizó el sistema operativo, s
 - opt.tar.gz
 - www_dir.tar.gz
 - backup_dir.tar.gz
-- var.tar.gz.part-aa
-- var.tar.gz.part-ab
-- var.tar.gz.part-ac
-- var.tar.gz.part-ad
+- var.tar.gz.part-001
+- var.tar.gz.part-002
+- var.tar.gz.part-003
+- var.tar.gz.part-004
+- var.tar.gz.part-005
+- var.tar.gz.part-006
+- var.tar.gz.part-007
+- var.tar.gz.part-008
+- var.tar.gz.part-009
+- var.tar.gz.part-010
+- var.tar.gz.part-011
+- var.tar.gz.part-012
+- var.tar.gz.part-013
+- var.tar.gz.part-014
+- var.tar.gz.part-015
+- var.tar.gz.part-016
+- var.tar.gz.part-017
+- var.tar.gz.part-018
+- var.tar.gz.part-019
+- var.tar.gz.part-020
+- var.tar.gz.part-021
+- var.tar.gz.part-022
+- var.tar.gz.part-023
+
+
 
 ## Profe realizamos una aclaración sobre /var/log
 
